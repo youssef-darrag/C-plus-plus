@@ -31,7 +31,6 @@ The projects cover both basic and advanced concepts such as Object-Oriented Prog
 - Document my C++ learning journey  
 - Share code for others to learn from  
 - Keep a personal reference of fundamental and advanced concepts
-
 ---
 
 ## 💡 Contributions
